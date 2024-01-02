@@ -1,0 +1,23 @@
+{
+    "firstName": "Omar",
+    "lastName":"Rodriguez Soberanes",
+    "email": "omar.rodsob@gmail.com",
+    "phone": "5216621393007",
+    "country":"Mexico",
+    "city":"Guadalajara, Mexico central time",
+    "salary":"70000",
+    "available":"immediately",
+    "advertised":"remotive.com",
+    "linkedinProfile":"https://www.linkedin.com/in/omarrodsob/",
+    "githubprofile":"https://github.com/omar-rodsob",
+    "coverLetter":"As far as apis automation is concerned, I have worked testing apis with post for around 5 years, working in agile environments with ci/cd through gitlab, running tests in the pipelines linking them to qtest and jira through qtest.\n\nThe UI automation was mostly done with cypress, and webdrive.io, for around 5 years, with the same environments mentioned in API automation.\n\nI have worked for more than 10 years in agile processes such as scrum and kanban, experience with version systems such as git, and task systems such as jira.\n\nThis job application was fully automated with cypress, you can check the code in the following git repository: https://github.com/omar-rodsob/vivun \n\nLinkedin Profile: https://www.linkedin.com/in/omarrodsob/",
+    "manualExp":"5",
+    "apiExp":"4",
+    "becomePart":"It is an interesting and growing company, in a field in which I would like to venture into to have new and fun challenges.",
+    "qaExp":"4 years",
+    "manualAndAutomationExp":"Automation Experience: 4 years\n\nManual Experience:6 years",
+    "webExperience":"Web Experience: 6 years \n\n Mobile Experience 1 year",
+    "webTools":"Cypress \n\n Playwright",
+    "mobileTools":"Appium",
+    "location":"LATAM"
+  }
